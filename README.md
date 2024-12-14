@@ -1,9 +1,9 @@
-# Ball Launcher Game
+# 🕹️ Ball Launcher Game
 
 This project is a simple game developed using Unity and C#. In this game, you launch a red ball to hit blocks by pulling it back like a slingshot. This game was developed with guidance from a Udemy course.
 
 
-## Gameplay
+## 🎮 Gameplay
 
 - The game starts directly, and you immediately begin launching the ball.
 - Pull back the red ball to hit and destroy the blocks.
@@ -11,7 +11,7 @@ This project is a simple game developed using Unity and C#. In this game, you la
 - Even if all blocks are destroyed, a new ball will be produced as long as the launching continues.
 
 
-## Features
+## 🚀 Features
 
 - Pull the ball back like a slingshot to hit the blocks.
 - No levels, menus, or exit options are available.
@@ -20,12 +20,12 @@ This project is a simple game developed using Unity and C#. In this game, you la
 - Includes a `Prefabs` folder under the `Assets` directory, where the `Ball` prefab is added. After the ball is launched, a new ball is automatically instantiated using the `Instantiate` method.
 
 
-## Screenshot
+## 📸 Screenshot
 
 ![BallLauncherIMG](https://github.com/user-attachments/assets/23e2407d-852e-4899-9e39-6d408f85be5f)
 
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 This project was developed with guidance from the [Unity C# Mobile Game Development: Make 3 Games From Scratch
 ] on Udemy. Instructors:
